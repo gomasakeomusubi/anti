@@ -1,0 +1,10 @@
+./IGSrot1.out -f ideallatticeindex61seed0.txt -d 60 -c 1 -s 1
+./IGSrot1.out -f ideallatticeindex61seed1.txt -d 60 -c 1 -s 1
+./IGSrot1.out -f ideallatticeindex61seed2.txt -d 60 -c 1 -s 1
+./IGSrot1.out -f ideallatticeindex61seed3.txt -d 60 -c 1 -s 1
+./IGSrot1.out -f ideallatticeindex61seed4.txt -d 60 -c 1 -s 1
+./IGSrot1.out -f ideallatticeindex61seed5.txt -d 60 -c 1 -s 1
+./IGSrot1.out -f ideallatticeindex61seed6.txt -d 60 -c 1 -s 1
+./IGSrot1.out -f ideallatticeindex61seed7.txt -d 60 -c 1 -s 1
+./IGSrot1.out -f ideallatticeindex61seed8.txt -d 60 -c 1 -s 1
+./IGSrot1.out -f ideallatticeindex61seed9.txt -d 60 -c 1 -s 1
