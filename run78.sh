@@ -1,6 +1,6 @@
 #! /bin/bash
 set -u
-max_cmd=5
+max_cmd=10
 cmd_file="cmdpal78.dat"
 cur=0
 line=1
