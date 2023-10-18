@@ -1,0 +1,10 @@
+./ITSrot2.out -f ideallatticeindex41seed0.txt -d 40 -c 1 -s 1
+./ITSrot2.out -f ideallatticeindex41seed1.txt -d 40 -c 1 -s 1
+./ITSrot2.out -f ideallatticeindex41seed2.txt -d 40 -c 1 -s 1
+./ITSrot2.out -f ideallatticeindex41seed3.txt -d 40 -c 1 -s 1
+./ITSrot2.out -f ideallatticeindex41seed4.txt -d 40 -c 1 -s 1
+./ITSrot2.out -f ideallatticeindex41seed5.txt -d 40 -c 1 -s 1
+./ITSrot2.out -f ideallatticeindex41seed6.txt -d 40 -c 1 -s 1
+./ITSrot2.out -f ideallatticeindex41seed7.txt -d 40 -c 1 -s 1
+./ITSrot2.out -f ideallatticeindex41seed8.txt -d 40 -c 1 -s 1
+./ITSrot2.out -f ideallatticeindex41seed9.txt -d 40 -c 1 -s 1
