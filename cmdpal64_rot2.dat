@@ -1,0 +1,10 @@
+./ITSrot2anti.out -f ideallatticeindex128seed0.txt -d 64 -c 1 -s 1
+./ITSrot2anti.out -f ideallatticeindex128seed1.txt -d 64 -c 1 -s 1
+./ITSrot2anti.out -f ideallatticeindex128seed2.txt -d 64 -c 1 -s 1
+./ITSrot2anti.out -f ideallatticeindex128seed3.txt -d 64 -c 1 -s 1
+./ITSrot2anti.out -f ideallatticeindex128seed4.txt -d 64 -c 1 -s 1
+./ITSrot2anti.out -f ideallatticeindex128seed5.txt -d 64 -c 1 -s 1
+./ITSrot2anti.out -f ideallatticeindex128seed6.txt -d 64 -c 1 -s 1
+./ITSrot2anti.out -f ideallatticeindex128seed7.txt -d 64 -c 1 -s 1
+./ITSrot2anti.out -f ideallatticeindex128seed8.txt -d 64 -c 1 -s 1
+./ITSrot2anti.out -f ideallatticeindex128seed9.txt -d 64 -c 1 -s 1

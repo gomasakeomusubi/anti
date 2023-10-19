@@ -1,0 +1,10 @@
+./IGSanti.out -f ideallatticeindex64seed0.txt -d 32 -c 1 -s 1
+./IGSanti.out -f ideallatticeindex64seed1.txt -d 32 -c 1 -s 1
+./IGSanti.out -f ideallatticeindex64seed2.txt -d 32 -c 1 -s 1
+./IGSanti.out -f ideallatticeindex64seed3.txt -d 32 -c 1 -s 1
+./IGSanti.out -f ideallatticeindex64seed4.txt -d 32 -c 1 -s 1
+./IGSanti.out -f ideallatticeindex64seed5.txt -d 32 -c 1 -s 1
+./IGSanti.out -f ideallatticeindex64seed6.txt -d 32 -c 1 -s 1
+./IGSanti.out -f ideallatticeindex64seed7.txt -d 32 -c 1 -s 1
+./IGSanti.out -f ideallatticeindex64seed8.txt -d 32 -c 1 -s 1
+./IGSanti.out -f ideallatticeindex64seed9.txt -d 32 -c 1 -s 1
